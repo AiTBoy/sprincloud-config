@@ -1,2 +1,2 @@
-info: 
-  springconfig-test.yml
+config:
+  info: springconfig-dev.yml
